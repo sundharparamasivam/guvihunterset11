@@ -6,6 +6,6 @@ for i in range(su):
     l.append(a)
 for j in range(len(l)):
     for k in range(len(l)):
-        if j+k==len(l):
+        if j+k==su:
             v+=l[j][k]
 print(v)
