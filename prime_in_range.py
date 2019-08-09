@@ -8,4 +8,4 @@ if su>2:
             if i%j==0:
                 c+=1
         if c==1:
-            print(i,end=" ")
+            print(i" ",end="")
